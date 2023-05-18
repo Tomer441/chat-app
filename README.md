@@ -1,6 +1,6 @@
 # Chat App
 
-This is a chat application that allows users to communicate with each other in real-time.
+This is a chat application that allows users to communicate with each other in real-time. It features a user system for authentication and uses MongoDB to store messages. The app utilizes Socket.IO to enable live chat functionality.
 
 ## Getting Started
 
