@@ -9,8 +9,7 @@ Follow the steps below to run the chat app locally:
 1. Install Docker on your machine if you haven't already.
 2. Clone this repository to your local machine.
 3. Open a terminal or command prompt and navigate to the project directory.
-4. Run the following command to start the app:
-{{{docker-compose up}}}
+4. Run the following command to start the app: `docker-compose up`
 5. Once the process completes, open your web browser and go to [localhost:3001](http://localhost:3001).
 
 ## Customization
